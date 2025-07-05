@@ -19,6 +19,4 @@ To demonstrate core frontend development skills, including responsive layout des
 - CSS3  
 - JavaScript (Vanilla)
 
-## 🚀 Live Demo
 
-🔗 [View Project](https://PRIYADHARSHINIBCOM.github.io/PRODIGY_WD_01/)
